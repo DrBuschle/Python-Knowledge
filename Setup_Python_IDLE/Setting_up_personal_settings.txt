@@ -1,0 +1,16 @@
+# How to set new key shortcuts
+
+
+## MAC
+
+# IDLE - Preferences - Keys
+
+## Windows
+
+# XXXX - Preferences - Keys
+
+
+history-next -> Key-Down
+history-previous -> Key-Up
+
+run-module -> Command-Key + Return
