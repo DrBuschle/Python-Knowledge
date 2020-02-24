@@ -1,0 +1,22 @@
+# Recipe for designing a function
+
+1. Write down an example
+	>>> sum(3,4,5)
+	12
+
+2. Type Contract
+	(number, number, number) -> number
+
+3. Header
+	def semiperimeter(side1, side2, side3):
+
+4. Description
+	Return the sum of three values side1, side2 and side3
+	(<- mention the parameters)
+
+5. Body
+	return (side1 + side2 + side3)
+
+6. Test
+	run the code, enter the values and check if you get your expexted results
+	
