@@ -1,0 +1,2 @@
+# Exported (written) file is empty
+	-> a file was not closed

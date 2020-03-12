@@ -1,0 +1,12 @@
+
+# ValueError
+	
+# first case	
+#in case a string '9.9.9' can't be converted to a float
+	>>> float('9.9.9')	# -> results in a ValueError
+	
+	
+# second case
+# try to modify a value, which does not exist
+	my_list = [1,2,3,4,5]
+	my_list.remove(6)	# -> results in a ValueError

@@ -1,0 +1,15 @@
+# TypeError
+	
+# compare a string with a number	
+	's' < 3	# -> TypeError
+	
+# assign something to a position, which does not exist	
+	s = fun
+	s[1] = "o" # -> TypeError
+	
+# use a command on strings, which is meant for numbers 
+	my_strings = ["my", "strings"]
+	sum(my_strings)  # -> TypeError
+
+# try to mutate immutable types (str, floats, ints, bools)
+	# -> TypeError

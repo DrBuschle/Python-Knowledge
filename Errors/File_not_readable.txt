@@ -1,0 +1,2 @@
+# File not writeable
+-> file is probably opened for reading only

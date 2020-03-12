@@ -1,0 +1,5 @@
+# SyntaxError
+# everything that cannot be interpreted by Python
+# e.g
+	
+	'He's the best'	-> results in SyntaxError

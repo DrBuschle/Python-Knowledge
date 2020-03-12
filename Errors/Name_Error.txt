@@ -1,0 +1,2 @@
+# NameError
+# comes up in the case a function is not defined
